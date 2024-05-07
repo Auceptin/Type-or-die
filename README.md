@@ -1,4 +1,4 @@
-# Trasnsformice Type-or-die script
+# Transformice Type-or-die script
 
 You must run the script in your tribehouse using the /lua command and pasting the script there. Remembering that you must have sufficient permissions to run scripts in tribehouse.
 
