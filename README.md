@@ -1,1 +1,1 @@
-# Type-or-die
+# Trasnsformice Type-or-die script
